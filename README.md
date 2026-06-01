@@ -1,4 +1,4 @@
-# multi-factor-alpha-research
+
 # Multi-Factor Alpha Research
 
 This project develops a systematic multi-factor stock selection model using U.S. equity market data and fundamental financial ratios. The goal is to identify predictive alpha signals, evaluate their robustness through factor analysis, and construct a portfolio that outperforms the S&P 500 benchmark.
